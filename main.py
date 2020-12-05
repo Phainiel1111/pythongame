@@ -1,14 +1,13 @@
-import pygame
-import pygame_menu
+import pygame,pygame_menu
 
 pygame.init()
 surface = pygame.display.set_mode((800, 600)) #designer
 
-def main_game:
+def main_game():
     pass
 
 
-def load_game:
+def load_game():
     pass
 
 def start_the_game():
@@ -29,7 +28,6 @@ def main_menu():
     menu.add_button('Load', load_game)
     menu.add_button('Help', help_game)
     menu.add_button('Quit', pygame_menu.events.EXIT)
-
 
 menu = pygame_menu.Menu(600, 800, 'Welcome',
                        theme=pygame_menu.themes.THEME_ORANGE) #designer
