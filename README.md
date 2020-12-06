@@ -14,9 +14,9 @@ Nhóm cài pygame, pygame-menu.
 >(hoặc mở cmd, dùng lệnh set PATH=<tên thư mục để pip, ví dụ ở đây là D:\Python38\Scripts>
 >
 >cài pygame thông qua lệnh cmd: 
-  'pip install pygame
+  `pip install pygame
   
 >cài pygame-menu thông qua lệnh:
-  'pip install pygame-menu
+  `pip install pygame-menu
 >(nếu chưa được thì xem báo lỗi xem nó yêu cầu cài thêm cái gì, ví dụ như sphinx thì phải dùng lệnh pip install sphinx)
 
